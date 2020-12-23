@@ -1,5 +1,5 @@
 .content .avatar img {
-  width: 35rem;
+  width: 45rem;
   height: auto;
   border-radius: 50%;
 }
@@ -7,4 +7,9 @@
   .content .avatar img {
     width: 35rem;
  }
+}
+
+.navigation .navigation-title {
+    letter-spacing: 0.1rem;
+    text-transform: none;
 }
